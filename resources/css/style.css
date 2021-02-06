@@ -2,6 +2,7 @@ body {
     background-color: black;
     font-size: 1rem;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
@@ -10,5 +11,9 @@ body {
 h1 {
     font-size: 1.5rem;
     color:aliceblue;
+}
+
+video {
+    display: flex;
 }
 
